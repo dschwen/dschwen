@@ -6,8 +6,8 @@
 
 ### Select Projects
 
-#### MOOSE
+#### [🧮🔢 MOOSE](https://github.com/idaholab/moose) finite element framework
 
-#### FastCCI
+#### [🖼️🔎 FastCCI](https://github.com/Commonists/FastCCI) category intersection search
 
-#### WikiMiniAtlas
+#### [🌎🌍 WikiMiniAtlas](https://github.com/dschwen/wikiminiatlas) interactive Wikipedia maps
